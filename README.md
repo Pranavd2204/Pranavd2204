@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me - through my linkedin  (https://www.linkedin.com/in/pranav-dalal-61704a25b/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ I have hands on HTML
 
 <!---
 Pranavd2204/Pranavd2204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
